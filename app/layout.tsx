@@ -54,8 +54,8 @@ export default function RootLayout({
         className={`mt-[56px] min-h-[calc(100vh-56px)] w-screen min-w-full overflow-x-hidden bg-white font-nanum antialiased web:mt-[84px] web:min-h-[calc(100vh-84px)] web:px-0`}
       >
         <meta
-          name="naver-site-verification"
-          content="807c130f7ad5f94875228faf921da5fe0790e950"
+          name="google-site-verification"
+          content="8nAWR6GsHSIGXQb9g7cD_dEFxFfyTvN1kEtlBx1oudo"
         />
 
         <div className="w-screen overflow-x-hidden px-5 web:mx-auto web:max-w-[600px]">
